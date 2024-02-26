@@ -1,0 +1,5 @@
+opencv-python
+time
+numpy
+mediapipe
+pygame
