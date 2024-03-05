@@ -1,6 +1,10 @@
 ## Driver Drowsiness Detection
 Drowsy driver is alerted when he/she is not attentive. The system uses features of non-alertness such as 'Eye closure', 'Yawning', and 'Head pose'.
 
+## Demo
+![DDD Demo - Eye and Yawn](https://github.com/Ibrahimak555/Driver-Drowsiness-Detection/assets/78961240/aaa5aefc-a383-4be4-98f7-dbe1ab073244)
+![DDD Demo - Head Pose](https://github.com/Ibrahimak555/Driver-Drowsiness-Detection/assets/78961240/7470d794-3240-41bb-9232-a579093b47e4)
+
 - We use the MediaPipe library which imposes a face mesh to identify points of interest in DDD from the mesh.
 <table>
 <tbody>
